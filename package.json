@@ -1,7 +1,7 @@
 {
-  "name": "meu-projeto",
+  "name": "exercicio",
   "version": "1.0.0",
-  "description": "Um projeto incrível",
+  "description": "Exercicio sass",
   "main": "index.js",
   "scripts": {
     "sass": "sass source/styles.scss build/styles.css --watch",
