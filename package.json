@@ -1,0 +1,21 @@
+{
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "description": "Um projeto incrível",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass source/styles.scss build/styles.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "node": "^21.7.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.1",
+    "chai": "^4.3.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
